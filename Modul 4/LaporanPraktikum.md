@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 3 - ABSTRACT DATA TYPE (ADT)</h1>
+# <h1 align="center">Laporan Praktikum Modul 4 - SINGLY LINKED LIST </h1>
 
 <p align="center">Imroatun Sholikha - 109082500111</p>
 
@@ -402,7 +402,7 @@ Berfungsi sebagai program utama untuk membuat list, memasukkan lima data menggun
 
 ##### Output 1
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-4-Struktur-Data/blob/5d03c4b46ee771f35290ee16addac444a01ee30e/Modul%204/Output/main.cpp.png)
 
 ## Kesimpulan
 
