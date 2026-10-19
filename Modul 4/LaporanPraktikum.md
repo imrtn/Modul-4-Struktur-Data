@@ -276,7 +276,9 @@ int main()
     nodeD = alokasi("Caca", "004", 23);
     nodeE = alokasi("Dewi", "005", 24);
 }
-``
+
+#endif
+```
 
 Merupakan program utama yang membuat linked list kosong dan mengalokasikan lima node berisi data mahasiswa.
 
